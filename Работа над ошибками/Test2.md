@@ -10,14 +10,14 @@
 * [Область видимости выражений](#question6)
 * [Недостижимый код](#question7)
 * [Классы-обертки](#question8)
-  + [Boolean](#quesquestion8.1)
-  + [Byte](#question8.2)
-  + [Short](#question8.3)
-  + [Character](#question8.4)
-  + [Integer](#question8.5)
-  + [Long](#question8.6)
-  + [Float](#question8.7)
-  + [Double](#question8.8)
+  + [Boolean](#quesquestion81)
+  + [Byte](#question82)
+  + [Short](#question83)
+  + [Character](#question84)
+  + [Integer](#question85)
+  + [Long](#question86)
+  + [Float](#question87)
+  + [Double](#question88)
 
 ## Затенение переменных внутри цикла fori
 
@@ -161,7 +161,7 @@ do {
 
 ### Boolean
 
-<a name="quesquestion8.1"></a>
+<a name="quesquestion81"></a>
 
 ``` java
  // Constructors
@@ -178,11 +178,11 @@ boolean booleanValue = new Boolean(true).booleanValue();
 
 ### Byte
 
-<a name="quesquestion8.2"></a>
+<a name="quesquestion82"></a>
 
 ### Short
 
-<a name="quesquestion8.3"></a>
+<a name="quesquestion83"></a>
 
 ``` java
 Short a = new Short((short) 12);
@@ -217,7 +217,7 @@ short c = (short) a + b;
 
 ### Character
 
-<a name="quesquestion8.4"></a>
+<a name="quesquestion84"></a>
 
 ``` java
 // Constructors
@@ -230,7 +230,7 @@ char y = b.charValue();
 
 ### Integer
 
-<a name="quesquestion8.5"></a>
+<a name="quesquestion85"></a>
 
 ``` java
 // constructors
@@ -252,7 +252,7 @@ double d = a.doubleValue();
 
 ### Long
 
-<a name="quesquestion8.6"></a>
+<a name="quesquestion86"></a>
 
 ``` java
 // Constructors
@@ -278,7 +278,7 @@ double d = a.doubleValue();
 
 ### Float
 
-<a name="quesquestion8.7"></a>
+<a name="quesquestion87"></a>
 
 ``` java
 // Constructors
@@ -299,7 +299,7 @@ double d = a.doubleValue();
 
 ### Double
 
-<a name="quesquestion8.8"></a>
+<a name="quesquestion88"></a>
 
 ``` java
 // Constructors
