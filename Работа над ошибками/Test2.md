@@ -11,13 +11,13 @@
 * [Недостижимый код](#question7)
 * [Классы-обертки](#question8)
   + [Boolean](#quesquestion8.1)
-  + [Byte](#question2)
-  + [Short](#question3)
-  + [Character](#question4)
-  + [Integer](#question5)
-  + [Long](#question6)
-  + [Float](#question7)
-  + [Double](#question8)
+  + [Byte](#question8.2)
+  + [Short](#question8.3)
+  + [Character](#question8.4)
+  + [Integer](#question8.5)
+  + [Long](#question8.6)
+  + [Float](#question8.7)
+  + [Double](#question8.8)
 
 ## Затенение переменных внутри цикла fori
 
